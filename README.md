@@ -5,4 +5,4 @@ Projet M2 BigData dont le but est de noté la viabilité de terrains pour l'auto
 # Installs
 - `pip install pyspark`
 - `pip install kafka-python`
-- ` python -m pip install "pymongo[srv]"` OU - `pip install pymongo dnspython`
+- ` python -m pip install "pymongo[srv]"` OU  `pip install pymongo dnspython`
