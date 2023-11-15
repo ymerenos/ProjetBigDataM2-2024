@@ -5,4 +5,7 @@ Projet M2 BigData dont le but est de noté la viabilité de terrains pour l'auto
 # Installs
 - `pip install pyspark`
 - `pip install kafka-python`
+
+# MongoDB Atlas
 - ` python -m pip install "pymongo[srv]"` OU  `pip install pymongo dnspython`
+- `mongodb+srv://projetbigdata:mdpbienvener1312@projetbigdata.zk6a0r3.mongodb.net/`
