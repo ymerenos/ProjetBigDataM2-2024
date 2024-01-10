@@ -1,0 +1,785 @@
+00001:Saint-Médard-d'Aunis
+00002:Le Vigan
+00003:Besse sur Issole
+00004:Granges lès Beaumont
+00009:Bouvesse-Quirieu
+00010:Le Grau-du-Roi - Repausset-Levant
+00014:Saint-Martin-d'Hères
+00015:Corte
+00018:Ferrals-lès-Corbières
+00023:Saint-Yrieix-le-Déjalat
+00025:Saint-Triphon
+00027:Cardo
+00029:Jarny
+00032:Bressols
+00033:Véretz
+00035:Rochegude
+00038:Fontenay-le-Comte
+00041:Lamballe
+00042:Sandillon
+00047:Plabennec
+00049:Saint-Symphorien - Verrières
+00051:Cramchaban
+00052:Armentières
+00053:La Réole
+00054:Corny-sur-Moselle
+00057:Toulon-Le Baou
+00059:Niort
+00060:Canéjan
+00061:Evry-Courcouronnes
+00063:La Teste de Buch
+00065:Soumoulou
+00070:Montigny-lès-Metz
+00072:Briançon
+00074:Saint-Jean-de-la-Haize
+00075:Peypin
+00076:Le-Péage-de-Roussillon
+00080:Angliers
+00081:Verneuil-sur-Seine
+00086:Saint-Malo-des-Trois-Fontaines
+00088:Orange Centre
+00089:Villemoisson-sur-Orge
+00091:Namur - Floriffoux
+00092:Mûr-de-Bretagne
+00093:Brignoles Ouest
+00094:Miribel-les-Echelles
+00095:Quimper
+00096:Le-Sappey (Mt Salève)
+00098:Plouguerneau
+00099:Crempigny-Bonneguête
+000A1:Cernay
+000A3:Entrechaux
+000A5:Sablons
+000A6:Leysin
+000A9:Rablay-sur-Layon
+000AA:Castels
+000AB:Landser
+000AC:Connerré
+000AD:Saint-Michel-sur-Ternoise
+000AE:Piedigriggio
+000AF:Boisredon
+000AH:Gambsheim
+000AI:Millau (1)
+000AJ:Léran
+000AK:Saint-André-de-Corcy
+000AL:Siegen - Kaidenbourg
+000AS:Ile-d'Yeu - Port Joinville
+000AU:Chézy-sur-Marne
+000AV:Baye
+000AX:Saint-Laurent-de-Cognac
+000AY:Les Pennes-Mirabeau
+000B0:La Chaux
+000B3:Mulhouse
+000B4:Chalampé
+000B5:Saint-Sorlin-en-Valloire
+000B6:Salins
+000B8:Augy-sur-Aubois
+000B9:Gouzon
+000BA:Grandfresnoy
+000BB:Hohrod
+000BE:Laruns-Artouste-Fabrèges
+000BG:Lyon 07
+000BI:Les Salces - Bonnecombe
+000BL:Marseille - Saména
+000BM:Theys (760m)
+000BN:Voiron - Centre ville
+000BO:Arces
+000BP:Périgueux
+000BQ:Colombé-le-Sec
+000BS:Cabestany
+000BU:Saint-Maximin-la-Sainte-Baume - Les Terriers
+000BV:Paris 5ème - Tour Zamansky
+000BX:Paimpol
+000BY:Cabannes
+000BZ:Saint-Hilaire-de-Brethmas
+000C0:Buhl-Lorraine
+000C1:Trelly
+000C4:Marseille-Corniche
+000C5:Laillé
+000C6:Saint-Philbert-de-Grand-Lieu
+000C7:Chenecey-Buillon
+000C9:Sain-Bel
+000CA:Leigné-les-Bois
+000CC:Manglieu
+000CD:St-Christophe-sur-Guiers - Le Habert de la Ruchère
+000CE:Campistrous - Centre de Recherches Atmosphériques
+000CF:Prudhomat - Castelnau
+000CI:Anglars-Saint-Félix
+000CJ:Granier
+000CK:Lagarde-d'Apt - Observatoire SIRENE
+000CL:Gréasque - La Diote
+000CM:Saint-Bonnet-le-Troncy
+000CN:Tournon-sur-Rhône
+000CO:Nostang
+000CP:Pressagny-l'Orgueilleux
+000CR:Almenêches
+000CT:Paris 6ème - Saint Germain des Prés
+000CU:Seltz
+000CV:Bruxelles - Woluve-Saint-Pierre
+000CW:Mussidan
+000CX:Saint-Philbert-sur-Risle
+000CY:Lapte - Verne
+000CZ:Peaugres
+000D2:Kernoues
+000D3:Plounéventer
+000D5:Naintré
+000D8:Brest
+000DA:Combs-la-Ville
+000DB:Recoules-de-Fumas
+000DC:Firmi
+000DD:Vinon
+000DE:Passy
+000DF:Arvert (2)
+000DH:Grimentz
+000DI:Saint-Saturnin-lès-Apt
+000DJ:Veyrins-Thuellin
+000DM:Saint-Georges-d'Oléron
+000DN:Butot
+000DP:Montréal
+000DQ:Saint-Nazaire-d'Aude
+000DR:Sainte-Feyre
+000DS:Néris-les-Bains
+000DV:Grenay
+000DX:Burdignes
+000DZ:Lacanau-Océan
+000E0:Origné
+000E2:Saint-Martinien
+000E7:Saint-Jean-de-Védas - La Fermaude
+000E8:Hadigny-les-Verrières
+000EB:Valennes
+000EC:Fort-Mahon - Plage
+000ED:Arc-sous-Cicon
+000EF:Cavalaire-sur-Mer
+000EG:Les Salles-de-Castillon
+000EH:Annot
+000EI:Saint-Loup-de-Varennes
+000EK:Saclas
+000EN:Osséja
+000EO:Pourrières - La Beyssanne
+000EP:Villefontaine
+000EQ:Montredon-des-Corbières
+000ET:Riotord
+000EU:Vernosc-lès-Annonay
+000EV:Le Teich
+000EW:Paris 20ème - Porte de Vincennes
+000F3:Agde - Le Grau
+000F4:La Fouly
+000F7:Versoix
+000F8:Belin-Béliet
+000FA:Lasne-Chapelle-Saint-Lambert
+000FB:Neuville-de-Poitou
+000FC:Rimbach-près-Masevaux
+000FD:Chapelle-des-Bois
+000FE:La Javie
+000FG:Pélussin
+000FI:Ambérieu-en-Bugey
+000FK:Malbosc
+000FL:Saint-Pierre-du-Chemin
+000FM:Cernay-la-Ville
+000FN:Saint-Glen
+000FO:Pomérols
+000FP:Ségur-le-Château
+000FR:Borne - La Croix de Bauzon
+000FS:Dontreix
+000FT:Blacé
+000FU:Saint-Paul-Trois-Châteaux
+000FV:Bélesta
+000FW:Massiac
+000FX:Pont-d'Ain
+000FY:Sainte-Ouenne
+000FZ:Guéret
+000G1:Gros-Réderching
+000G2:Gries
+000G3:Le Mesnil-Esnard
+000G4:Niederbronn-les-Bains
+000G6:Aigrefeuille-d'Aunis
+000G7:Saint-Haon
+000GB:Wintersbourg
+000GC:Annonay
+000GD:Loano (SV)
+000GF:Castres
+000GG:Clans
+000GH:Ilonse
+000GI:Hédé-Bazouges
+000GJ:Arcizans-Avant
+000GK:Thoiras
+000GL:Aytré-Plage
+000GM:Yzeron
+000GN:Vieux-Moulin
+000GO:Mirebeau
+000GP:L'Huisserie
+000GQ:Charnas
+000GR:Kogenheim
+000GS:Lans-en-Vercors - Les Allières
+000GT:Bouliac
+000GU:Pleslin-Trigavou
+000H4:Meillers
+000H6:Les Buteaux
+000H8:Montpellier
+000H9:Juziers
+000HB:Nonaville
+000HC:Variscourt
+000HD:Nice - Pessicart
+000HF:Toulouse - Cité de l'Espace
+000HH:Saint-Germain-Laprade
+000HJ:Réaumur
+000HL:Vence
+000HM:Yssingeaux
+000HO:Estrées-la-Campagne
+000HR:La Chapelle-Saint-Florent
+000HS:Dolembreux
+000HT:Engins
+000I1:Laroque
+000I2:Prades-sur-Vernazobre
+000I4:Guidel
+000I5:Bulson
+000I6:Lobbes
+000I7:Eygliers
+000I9:Foussais-Payré
+000IA:Méaudre
+000IB:Eu
+000IC:Auvers-le-Hamon
+000ID:Molières
+000IF:Châtelus-Malvaleix
+000II:Boulaincourt
+000IK:Perche en Nocé - Courboyer
+000J0:Le Luc
+000J1:Senlis
+000J2:Villebret
+000J4:L'Isle-sur-la-Sorgue - Velorgues
+000J6:Le Castellet
+000J8:Béziers
+000J9:Nogentel
+000K0:Viriat
+000K1:L'Isle-d'Abeau
+000K2:L'Isle-sur-la-Sorgue - Lycée agricole
+000K3:Valence
+000K4:Phalsbourg
+000K5:Saint-Nicolas-la-Chapelle
+000K6:Hestrud
+000K7:Saint-Léger-les-Mélèzes
+000L1:Cheylade - Vallée de la Rhue
+000L2:Saramon
+000L3:Saint-Saturnin-lès-Avignon
+000L4:Roquevaire - Vallon du Gaudissard
+000L5:Valflaunès
+000L7:Aniane
+000L9:Genac
+000LM:Ancey
+000LO:Daglan
+000LP:Vern-d'Anjou
+000LQ:Beaucroissant
+000LR:Saint-Cirq-Souillaguet
+000LS:Monswiller
+000LU:Frontenay-Rohan-Rohan
+000LV:Saint-Denis-d'Oléron
+000LY:Monts-sur-Guesnes
+000LZ:Saint-Hilaire
+000M2:Bourg-lès-Valence
+000M4:Ciran
+000M6:Arvert (1)
+000M7:Ploeren
+000M8:Saint-Maximin-la-Sainte-Baume - Saint Mitre
+000M9:Sanary-sur-Mer
+000MA:Beaumont-du-Ventoux - Mont Serein
+000MB:Tour-en-Sologne
+000MD:Lemberg
+000MF:Calignac
+000MG:Romilly-sur-Aigre
+000MI:Périgny
+000MJ:Petiville
+000MK:Nay
+000ML:Chassors
+000MN:Gruissan
+000MO:Belmont - Champ du Feu
+000MP:Continvoir
+000MQ:Priay
+000MR:Mortagne-sur-Sèvre
+000MS:Xonrupt-Longemer - Le Poli
+000MT:Amiens - Dury
+000MV:Millau
+000MW:Le Grand-Pressigny
+000MX:Saint-Vallier-de-Thiey
+000MY:Sallanches
+000MZ:Saint-Just-le-Martel
+000N3:Crest
+000N4:Aizenay
+000N5:Oletta
+000N6:Nans-les-Pins
+000N9:Les Herbiers
+000NB:Pouzauges
+000NC:Mairy-sur-Marne
+000ND:Mirepoix
+000NF:Cipières
+000NG:Saint-Germain-la-Poterie
+000NH:Pertuis - Le Farigoulier
+000NI:Sallèles-d'Aude
+000NJ:Tence
+000NK:Geishouse
+000NL:Saint-Paul-sur-Ubaye - Maljasset
+000NM:Priziac
+000NP:Simiane-Collongue
+000NQ:Camaret-sur-Mer
+000NR:Seichamps
+000NT:Le Falgoux
+000NU:Louargat
+000NW:Charleville-Mézières - Mohon
+000NX:Saint-Léon
+000NZ:Chepniers
+000O2:Cerisiers
+000O3:Saint-Brevin-les-Pins
+000O4:Saint-Angel
+000O5:Bard
+000O7:Saint-Bonnet-le-Château
+000O8:Saint-Clément-de-Rivière
+000O9:Recoubeau-Jansac
+000OA:Obersteinbach
+000OB:Sauteyrargues
+000OG:Orçay
+000OH:Plumergat
+000OI:Quimperlé
+000OJ:La Lande-sur-Eure
+000OK:Schirrhoffen
+000OM:Le Perreux-sur-Marne
+000ON:Montret
+000OO:Saint-Antonin-du-Var
+000OP:Mareuil
+000OQ:Obernai
+000OR:Drachenbronn-Birlenbach
+000OS:Saint-Julien-en-Quint
+000OT:Saint-Bihy
+000OU:Sivry-Rance
+000OW:Montaren-et-Saint-Médiers
+000OX:Veauchette
+000OZ:Gallargues-le-Montueux
+000P1:Maisonnisses
+000P2:Besançon
+000P4:Ferrières sur Sichon - Cheval Rigon
+000P6:Saint-Germain-le-Guillaume
+000P7:Argenteuil
+000P8:Issou
+000P9:Saint-Michel-Mont-Mercure
+000PA:Petersbach
+000PG:Valouse
+000PH:Vengeons
+000PI:Muirancourt
+000PJ:Charmant
+000PK:Gilette - La Clave
+000PL:Bouveret
+000PM:Montvalezan
+000PN:Senantes
+000PO:Biot - Polytech Nice Sophia
+000PP:Gourin
+000PQ:Voinémont
+000PS:Téthieu
+000PT:Blois - L'Arrou
+000PU:Castanet-Tolosan
+000PW:Burdignes
+000PX:Annonay - Chatinais
+000PY:Thorrenc
+000PZ:Glacier du Pisaillas
+000Q2:Sénébret
+000Q3:Perpignan - Moulin à Vent
+000Q4:Villefort - Mas de la Barque
+000Q6:Mouilleron-le-Captif
+000Q7:Aigrefeuille-d'Aunis - Château-d'eau
+000Q8:Castres
+000Q9:Pourrières
+000QA:Fontenermont
+000QB:Caix
+000QC:Cerisy-la-Forêt
+000QD:[MAE] Château-Renault - Collège André Bauchant
+000QE:Jarrier - La Tuvière
+000QF:Besné
+000QG:Nérac
+000QH:Seythenex
+000QI:Noyarey
+000QJ:Lasfaillades
+000QM:Saint-Martin-de-Londres
+000QN:Boulc
+000QO:Bourth
+000QR:La Meyze
+000QS:Bannay
+000QT:Hochstatt
+000QU:Brion
+000QV:Ristolas
+000QW:Ste-Colombe-de-la-Commanderie
+000QX:Donnemarie-Dontilly
+000QY:Chuzelles
+000QZ:Niederbronn-les-Bains (Sud)
+000R1:Brassy
+000R2:Digne-les-Bains
+000R3:Gérardmer
+000R4:Lagarrigue
+000R5:Bergues
+000R6:Saint-Jean-de-Maurienne
+000RA:Chamant
+000RB:Buellas
+000RC:Jussy
+000RD:Faverolles-et-Coëmy
+000RE:Colombiers
+000RF:La Chapelle-Aubareil
+000RG:Donges
+000RH:La Douze
+000RI:Yvoy-le-Marron
+000RJ:Luzinay
+000RK:Brugge
+000RL:Mazinghem
+000RM:Lignerolles
+000RN:Ota
+000RO:Vicdessos
+000RQ:Breuillet
+000RS:Saint-Remy-en-Bouzemont-Saint-Genest-et-Isson
+000RT:Cauterets
+000RX:Font-Romeu-Odeillo-Via
+000RY:Bannalec
+000RZ:Gourin - Rue Saint-Nicolas
+000S0:Luz-Saint-Sauveur
+000S1:Goldbach-Altenbach
+000S2:Saint-Tricat
+000S3:Les Ormes
+000S4:Sorcy-Bauthémont
+000S6:Treuzy-Levelay
+000S8:Willer-sur-Thur - Grand Ballon
+000S9:Les Fourgs
+000SB:Taupont
+000SC:Auffargis
+000SD:Theys (850m)
+000SE:Jarnages
+000SF:Le Pertuis
+000SG:Toulouse - Saint-Simon
+000SH:Saint-Paul-lès-Durance
+000SK:Gros-Réderching - Singling
+000SL:Déservillers
+000SM:Saint-Saud-Lacoussière
+000SN:Saorge
+000SO:Santa-Severa
+000SP:Montagny
+000SR:Chausey
+000SS:Mandailles-Saint-Julien
+000ST:Pointe de Châtelaillon
+000SU:Perriers-en-Beauficel
+000SW:Lapoutroie
+000SX:Vars - Col de Jaffueil
+000SY:Thurey
+000SZ:Busseaut
+000T0:Lans-en-Vercors - Les Bruyères
+000T1:Vouillé
+000T3:Lautenbachzell
+000T5:Serémange-Erzange
+000T6:La Marche
+000T8:Xertigny
+000T9:Moncoutie
+000TA:Villarembert - Les Fromentières
+000TB:Calce
+000TC:Plaisir (2)
+000TD:Douzy
+000TE:Sologny - Le Bois Clair
+000TG:Névache
+000TJ:Alvignac
+000TK:Haywards Heath
+000TL:Clermont-l'Hérault
+000TM:Saint-Germain-du-Puch
+000TN:Saint-Romain-de-Colbosc
+000TO:Arc-sous-Cicon - Crêt Monniot
+000TP:Le Val
+000TQ:Nieul-sur-Mer - Pointe du Plomb
+000TR:Charrin
+000TS:Corpe
+000TU:Villemer
+000TW:Montrodat
+000TX:Marie - Caïre Gros
+000TY:Kitzing
+000TZ:Asnelles
+000U0:Asnières-sur-Oise
+000U1:Frontenac
+000U2:Puy-Saint-Pierre
+000U3:Saint-Didier-en-Velay
+000U4:Fleurie
+000U6:Orcières - Chauffarel
+000U7:Peyrus
+000U9:Bras
+000UA:Les Estables
+000UB:Valleraugue
+000UC:Le Loroux-Bottereau
+000UD:Bellemagny
+000UE:Besson - Chassignolles
+000UF:La Chapelle-en-Vercors -  Combe-de-l'Oscence
+000UH:Saint-Paul-des-Landes
+000UI:Herbouilly
+000UJ:Chusclan
+000UK:Lanarce - Tourbière de Sagne Redonde
+000UL:Lussan - Audabiac
+000UM:Berné - Vallée du Scorff
+000UN:Barr
+000UO:Eguisheim
+000UQ:Avrigny
+000US:La Bastide-l'Evêque
+000UT:Abbeville - centre
+000UU:Spézet - Roch-Toullaëron
+000UW:Comus
+000UX:Aiguilles
+000UY:Courcelles-de-Touraine
+000UZ:Carquefou
+000V0:Innimond
+000V2:La Bresse-Hohneck
+000V3:Stutzheim-Offenheim
+000V4:La Bruffière
+000V6:Basse-sur-le-Rupt (Croix des Moinats)
+000V7:Pertuis
+000VB:Bessé-sur-Braye
+000VC:Montreuillon - Chassy
+000VE:Mas-Saint-Chély - Causse Méjean
+000VF:Goulles
+000VI:Apremont
+000VJ:Amiens - Hortillonnages
+000VL:Juré
+000VM:Sail-les-Bains
+000VN:Yèvres
+000VP:Jugon-les-Lacs
+000VQ:Dent de Rez
+000VT:Cantenay-Epinard
+000VV:Forceville
+000VW:Sainte-Croix-en-Plaine
+000VX:Cours-la-Ville
+000VY:Quistinic
+000W1:Val-d'Isère
+000W2:Artonne
+000W5:Vieillevie
+000W6:Quillan
+000W7:Roquefeuil
+000W8:Orvilliers
+000W9:Gap
+000WA:Sant Martí de Canals
+000WB:Île du Levant - Heliopolis
+000WD:Concoules
+000WE:Jonchery
+000WF:Cugy
+000WG:Saint-Léger-sur-Sarthe
+000WI:Neubois
+000WJ:Bouvante - Derbounouse
+000WK:Amiens - Fossé Noyon
+000WL:Taninges - Praz de Lys
+000WM:Sisteron - Plan de la Baume
+000WN:Saint-Martin-la-Sauveté
+000WT:Visé - Argenteau
+000WU:Braunlauf
+000WW:Amiens - UPJV Citadelle
+000WX:Uzerche
+000WY:Saint-Jean-sur-Couesnon
+000WZ:Chaumont
+000X0:Trégueux
+000X1:Bourg-Saint-Andéol
+000X2:Colonzelle
+000X3:Montroy
+000X4:Lhospitalet
+000X5:Saint-Alban-sur-Limagnole
+000X6:Saint-Gonlay
+000X8:Grosbreuil
+000X9:Six-Fours-les-Plages (Pont du Brusc)
+000XA:Damme
+000XB:Montferrat
+000XD:Ris-Orangis
+000XE:Plonévez-du-Faou
+000XF:Wimmenau
+000XH:Morteau
+000XI:Villaudric
+000XJ:Bréménil
+000XK:Laval-sur-Vologne
+000XM:Caille
+000XN:La Turbie
+000XO:Wiesviller
+000XP:Lamoura
+000XR:Rochechouart
+000XW:Lebiez
+000XX:Aucun
+000XY:Trévoux
+000XZ:Saint-Martin-du-Bec
+000Y1:La Bastide - Montagne de Lachens
+000Y3:Mont-Dore - Puy de Sancy
+000Y4:La Bourboule
+000Y5:Briord (Vérizieu)
+000Y9:Six-Fours-les-Plages (Bucarin)
+000YB:Vialas - Nojaret
+000YD:Allos
+000YE:Tigery
+000YF:Nogent
+000YG:Varennes-le-Grand
+000YH:Sixt-Fer-a-Cheval - Nambride
+000YI:Lanfains
+000YJ:Plouha
+000YK:Saint-Julien
+000YL:Chaptuzat
+000YM:Sorgues
+000YN:Rovagny
+000YO:Saint-Saturnin-lès-Avignon
+000YQ:Langé
+000YU:Vensac
+000YW:Archingeay
+000YX:Aunay-sous-Auneau - Nélu
+000YY:Sars-et-Rosières
+000YZ:Sospel
+000Z0:Trept
+000Z1:Saint-Igneuc
+000Z4:Ringendorf
+000Z6:Brigueuil
+000Z7:La Chapelle-Montreuil
+000Z8:Aix-en-Provence
+000Z9:Voiron
+000ZA:Villar Perosa
+000ZB:Saint-Paul-les-Fonts
+000ZC:Tende - Castérino
+000ZE:Les Pontets
+000ZF:Granges-Narboz
+000ZG:Dommartin
+000ZH:La Chaux (Village)
+000ZI:Saint-André-d'Allas
+000ZJ:[MAE] Flers - Collège Saint-Thomas d'Aquin
+000ZK:Châtillon-en-Diois - Cirque d'Archiane
+000ZL:Colombey-les-Deux-Eglises
+000ZM:Houesville
+000ZN:Galargues
+000ZO:Bressolles
+000ZP:Le Cercueil
+000ZQ:Gentelles
+000ZR:Plouasne
+000ZS:Brezons
+000ZT:Lausanne-Centre
+000ZU:Montréal-du-Gers
+000ZV:Gougenheim
+000ZW:Lussan - La Lèque
+000ZX:Vaux-et-Chantegrue
+07005:Abbeville
+07015:Lille-Lesquin
+07020:Cap de La Hague
+07027:Caen-Carpiquet
+07037:Rouen-Boos
+07070:Reims-Champagne
+07110:Brest-Guipavas
+07117:Ploumanac'h - Perros
+07130:Rennes-St Jacques
+07139:Alençon - Valframbert
+07149:Orly - Athis-Mons
+07168:Troyes-Barberey
+07181:Nancy-Ochey
+07190:Strasbourg-Entzheim
+07207:Belle Ile-Le Talut
+07222:Nantes-Atlantique
+07240:Tours - Parcay-Meslay
+07255:Bourges
+07280:Dijon-Longvic
+07299:Bâle-Mulhouse
+07314:Pointe de Chassiron
+07335:Poitiers-Biard
+07434:Limoges-Bellegarde
+07460:Clermont-Ferrand - Aulnat
+07471:Le Puy-Loudes
+07481:Lyon-St Exupéry
+07510:Bordeaux-Mérignac
+07535:Gourdon
+07558:Millau - Soulobres
+07577:Montélimar - Ancone
+07591:Embrun
+07607:Mont-de-Marsan
+07621:Tarbes - Ossun - Lourdes
+07627:Saint-Girons - Antichan
+07630:Toulouse-Blagnac
+07643:Montpellier - Fréjorgues
+07650:Marseille-Marignane (Marseille Provence)
+07661:Saint-Mandrier-sur-Mer - Cap Cépet
+07690:Nice - Côte d'Azur
+07747:Perpignan - Rivesaltes
+07761:Ajaccio - Campo dell'Oro
+07790:Bastia - Poretta
+ME001:[MAE] Lycée Roz Glas - QUIMPERLE
+ME003:[MAE] Lycée Emile Zola - AIX EN PROVENCE
+ME004:[MAE] Collège Charlotte Delbo - TRONGET
+ME005:[MAE] Lycée Curie - Château-Gontier
+ME006:[MAE] Collège des Milles Etangs - MELISEY
+ME007:[MAE] Collège Fernand Lagrange - PIERRE BUFFIERE
+ME008:[MAE] Collège Frédéric Mistral - BORMES LES MIMOSA
+ME009:[MAE] Collège Boris Vian - TALANT
+ME010:[MAE] Collège André Chêne - FLEURY LES AUBRAIS
+ME011:[MAE] Collège Jean Paul De Dadelsen - HIRSINGUE
+ME012:[MAE] Collège Lavoisier - OUCQUES
+ME013:[MAE] Lycée Clément Ader - BERNAY
+ME014:[MAE] Lycée Alexandre Ribot - SAINT OMER
+ME015:[MAE] Collège L'Eeau Vive - BREIL-SUR-ROYA
+ME016:[MAE] Collège Joseph Anglade - LEZIGNAN
+ME017:[MAE] Lycée Saint Exupéry - LA ROCHELLE
+ME018:[MAE] Collège de Porto-Vecchio - PORTO-VECCHIO
+ME019:[MAE] Collège Antonin Perbosc - AUTERIVE
+ME020:[MAE] Lycée Joseph Vallot - LODEVE
+ME021:[MAE] Collège André Malraux - ST JEAN DE LA RUELLE
+ME022:[MAE] Collège Jean-Baptiste Carpeaux - VALENCIENNE
+ME023:[MAE] Collège Abel Didelet - ESTREES SAINT DENIS
+ME024:[MAE] Collège et Lycée Lavoisier - AUCHEL
+ME025:[MAE] Collège Alphonse Daudet - LA VALETTE DU VAR
+ME026:[MAE] MFR les 4 Vents - RAMONCHAMP
+ME027:[MAE] Collège Les Gâtines - René Cassin - SAVIGNY
+ME028:[MAE] Collège Jean Moulin - MONTREUIL
+ME029:[MAE] Lycée Antoine Bourdelle - MONTAUBAN
+ME030:[MAE] Collège Louise Michel - CHAGNY
+ME031:[MAE] Lycée Alexis de Tocqueville - CHERBOURG
+ME032:[MAE] Lycée Bourg Chevreau Ste Anne - SEGRE
+ME033:[MAE] Collège Kerzouar - SAINT RENAN
+ME034:[MAE] Lycée Victor Louis - TALENCE
+ME035:[MAE] Lycée Louis Astier - PARAY LE MONIAL
+ME036:[MAE] Lycée Raoul Follereau - NEVERS
+ME038:[MAE] Collège Jean Bouzet - PONTACQ
+ME039:[MAE] Collège Roland Dorgelès - LONGVIC
+ME040:[MAE] Lycée Pablo Picasso - PERPIGNAN
+ME042:[MAE] Collège Firmin Roz - LIMOGES
+ME043:[MAE] Lycée Henri Matisse - CUGNAUX
+ME044:[MAE] Lycée Bertrand d'Argentré - VITRE
+ME045:[MAE] Collège René Char - SAINT JOACHIM
+ME046:[MAE] Ecole Normale Supérieure - LYON
+ME047:[MAE] Lycée Polyvalent Chevrollier - ANGERS
+ME048:[MAE] Collège Letot - BAYEUX
+ME049:[MAE] Lycée André Honnorat - BARCELONNETTE
+ME050:[MAE] Collège Le Chapitre - CHENÔVE
+ME051:[MAE] Lycée des Graves - GRADIGNAN
+ME052:[MAE] Collège Thalassa - ERQUY
+ME057:[MAE] AJACCIO
+ME098:[MAE] ESPE - PARIS
+ME099:[MAE] LATMOS - PARIS
+ME101:[MAE] Collège Alphonse Karr - SAINT RAPHAEL
+ME102:[MAE] Collège Les Mattons - VIZILLE
+ME103:[MAE] Collège du Lignon - CHAMBON SUR LIGNON
+ME104:[MAE] Collège Jean Rostand - LES MARTRES DE VEYRE
+ME105:[MAE] Collège l'Oiseau Blanc - CRIQUETOT L'ESNEVAL
+ME106:[MAE] Collège Jacques Prévert - NOUVION
+ME107:[MAE] Collège Lou Castellas - SOLLIES-PONT
+ME108:[MAE] Collège La Ponétie - AURILLAC
+ME109:[MAE] Collège les Hautes Pailles - ECHENON
+ME110:[MAE] Collège Jean Moulin - SAINT MEMMIE
+ME111:[MAE] Coll. M. Leclerc de Hauteclocque - Beaucamps
+ME112:[MAE] Collège Jules Ferry - CONTY
+ME113:[MAE] Lycée Parc de Vilgénis - MASSY
+ME114:[MAE] Collège Amiral de Rigny - TOUL
+ME115:[MAE] Collège les Saules - GUYANCOURT
+ME116:[MAE] Collège Léo Ferré - AMBRIERES LES VALLEES
+ME117:[MAE] Cité Scolaire Jean Moulin - CHATEAULIN
+ME118:[MAE] Collège Joseph Anglade - LEZIGNAN CORBIERES
+ME119:[MAE] Cité Scolaire Alfred Kastler - STENAY
+ME120:[MAE] Lycée de la Mer - GUJAN-MESTRAS
+ME121:[MAE] Lycée Agricole de Théza - Théza
+ME123:[MAE] Collège Lou Blazer - MONTBÉLIARD
+ME124:[MAE] Collège Les Eyquems - MERIGNAC
+ME125:[MAE] Collège de SAINT-ETIENNE-DE-CUINES
+ME126:Lycée Couffignal - Strasbourg
+ME128:[MAE] Collège Honoré De Balzac - VENISSIEUX
+ME129:[MAE] EREA MC Leriche - VILLENEUVE-SUR-LOT
+ME130:[MAE] Collège Jules Vallès - PORTET SUR GARONNE
+ME131:[MAE] Collège Lavoisier - AUCHEL
+ME132:[MAE] Collège Paul Valéry - ROQUEMAURE
+ME134:[MAE] Lycée Marguerite Filhol - FUMEL
+ME135:[MAE] Collège Louis Blériot - TOURY
+ME136:[MAE] Lycée André Honnorat - BARCELONNETTE
+ME137:[MAE] Collège Les Provinces - BLOIS
+ME138:[MAE] Centre International de Valbonne - VALBONNE
+ME139:[MAE] Collège Jean-de-la-Fontaine - LAXOU
+ME146:[MAE] Collège Camille Guérin - Saint-Méen-le-Grand
+ME151:[MAE] - Collège Pierre et Marie Curie - Hennebont
+ME152:[MAE] - Collège Jean Vilar - Saint Gilles
+ME153:[MAE] - Collège Jean-Pierre Calloc'h - Locminé
